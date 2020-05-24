@@ -1,0 +1,41 @@
+
+.red {
+	height: 60px;
+	left: 0px;
+	background: #FE1A19;
+}
+
+ h1 {
+ 	padding-top: 20px;
+ 	padding-left: 20px;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	color: #FFFFFF;
+}
+
+.menu{
+	width: 400px;
+	border: 5px solid #E5E000;
+	box-sizing: border-box;
+	border-radius: 30px;
+	display: inline-block;
+	margin: 25px;
+	padding: 33px;
+}
+
+.conteiner {
+	margin: 27px 45px;
+
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	color: #000000;
+	padding-bottom: 40px
+
+
+}
+
