@@ -1,0 +1,116 @@
+.header {
+	height: 140px;
+	background: #FFFFFF;
+	display: flex;
+	padding-left: 50px;
+	padding-right: 25px;
+	align-items: center;
+	
+
+}
+
+.menu {
+	font-family: Arial;
+	color: #E50043;
+	display: inline-block;
+	font-size: 50px;
+	padding-right: 25px;
+
+}
+
+.menu a {
+	color: #E50043;
+
+}
+
+.logo {
+	flex-grow: 1;
+
+
+}
+
+img {
+	width: 100%;
+
+
+}
+
+.image {
+	font-family: Arial;
+	display: flex;
+	align-items: center;
+	color: #E50043;
+	font-size: 100px;
+	position: relative;
+	justify-content: center;
+
+}
+
+h1{
+	position: absolute;
+	
+}
+
+.text {
+	
+	padding: 150px 200px;
+}
+
+.textbox {
+	font-family: Arial;
+	color: #000000;
+	letter-spacing: 0.05em;
+	line-height: 29px;
+	font-size: 25px;
+	border: 3px solid #F8BFC7;
+	box-sizing: border-box;
+	border-radius: 20px;
+	padding: 24px;
+
+
+}
+
+.bottles {
+	display: flex;
+	padding: 0px 150px;
+	align-items: center;
+
+
+}
+
+.bottle {
+	padding: 50px;
+	padding-top: 0px;
+
+}
+
+.bottle p {
+	color: #000000;
+	font-family: Arial;
+	font-size: 25px;
+	line-height: 29px;
+	text-align: center;
+	padding-top: 48px;
+
+}
+
+.textbox img {
+	width: 101px;
+	height: 220px;
+	float: left;
+	padding-left: 56px;
+	padding-right: 80px;
+}
+
+.footer {
+	background: #F8BFC7;
+	height: 140px;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 50px;
+	line-height: 140px;
+	padding-left: 50px;
+	text-align: left;
+
+}
+
