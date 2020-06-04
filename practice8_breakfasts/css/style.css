@@ -25,6 +25,7 @@ h1 {
 	display: flex;
 	justify-content: space-between;
 	align-items: baseline;
+	min-width: 700px;
 
 
 	}
@@ -80,9 +81,13 @@ h1 {
 	padding-bottom: 40px;
 	padding-top: 20px;
 
-
-
 	}
+
+.column h3 {
+
+	padding-bottom: 40px;
+
+}
 
 
 ul {
